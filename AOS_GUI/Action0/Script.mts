@@ -1,1 +1,3 @@
-﻿RunAction "Action1", oneIteration
+﻿RunAction "Login", oneIteration
+RunAction "tablet to cart", oneIteration
+RunAction "logout", oneIteration

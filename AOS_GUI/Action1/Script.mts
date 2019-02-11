@@ -1,9 +1,5 @@
-﻿Browser("Advantage Shopping").Page("Advantage Shopping").Link("TABLETS Shop Now").Click @@ script infofile_;_ZIP::ssf1.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").Image("fetchImage?image_id=3100").Click @@ script infofile_;_ZIP::ssf2.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("quantity").Set "3" @@ script infofile_;_ZIP::ssf3.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("save_to_cart").Click @@ script infofile_;_ZIP::ssf4.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").Link("3").Click @@ script infofile_;_ZIP::ssf5.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebTable("PRODUCT NAME").Check CheckPoint("PRODUCT NAME") @@ script infofile_;_ZIP::ssf6.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("REMOVE").Click @@ script infofile_;_ZIP::ssf7.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Your shopping cart is").Check CheckPoint("Your shopping cart is empty") @@ script infofile_;_ZIP::ssf8.xml_;_
-Browser("Advantage Shopping").Page("Advantage Shopping").Link("dvantage DEMO").Click @@ script infofile_;_ZIP::ssf9.xml_;_
+﻿ @@ script infofile_;_ZIP::ssf9.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").Link("My account My orders Sign").Click @@ script infofile_;_ZIP::ssf13.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("username").Set "cdion" @@ script infofile_;_ZIP::ssf14.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("password").SetSecure "5c61c7afebee51b42465c77415088992390de9117d1a2776" @@ script infofile_;_ZIP::ssf15.xml_;_
+Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("sign_in_btnundefined").Click @@ script infofile_;_ZIP::ssf16.xml_;_
