@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>10ebda62-e16f-4c7b-8d82-00cb750f618b</ID>
+  <Name>HPFlights_</Name>
+  <Type>WSDL</Type>
+  <Version>1</Version>
+  <CreationDate>2019-02-13T08:01:56.4026338-07:00</CreationDate>
+  <UpdateDate>2019-02-13T08:01:56.4026338-07:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>4aa7762c-c57f-4652-950d-8675d2951a0e.xml</MetaDataSignatureFile>
+  <TestResourceId>4aa7762c-c57f-4652-950d-8675d2951a0e</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.WebServiceWsdl</SignatureCodonId>
+  <SignatureAddinVersion>14.50.76.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\Unified Functional Testing\UFT_integration\Flight_API\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\demo\Documents\Unified Functional Testing\UFT_integration\Flight_API\EmbeddedResources\HPFlights_</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>14.50.76.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>
