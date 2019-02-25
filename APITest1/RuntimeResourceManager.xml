@@ -1,7 +1,0 @@
-<RuntimeResourceManager>
-<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity13.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{Step.GeneralProperties.StServiceCallActivity11.TransportProtocol.SOAPProperties.EndpointAddress}</Key><Path>0</Path><Value></Value><AddinId>StmDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{flight_pairing!Input.TablePath}</Key><Path>Local</Path><Value>C:\Users\demo\Desktop\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{flight_pairing!Output.TablePath}</Key><Path>Local</Path><Value>C:\Users\demo\Desktop\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
-<RuntimeResource><Key>{flight_pairing!Sheet3.TablePath}</Key><Path>Local</Path><Value>C:\Users\demo\Desktop\SampleAppData.xlsx</Value><AddinId>DataAwarenessDependencyResolver</AddinId></RuntimeResource>
-</RuntimeResourceManager>
